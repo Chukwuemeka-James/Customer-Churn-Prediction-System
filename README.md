@@ -42,7 +42,7 @@ The project consists of the following files:
 To run this project you have to install python and then `pip install requirements.txt`
 
 ## Usage
-1. Run the Streamlit app:
+1. Run the Streamlit app: streamlit run app.py
 
 ## Model Training
 The model was trained using a feedforward Artificial Neural Network (ANN) implemented in TensorFlow. Key steps in the training process include:
